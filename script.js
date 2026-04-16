@@ -44,7 +44,7 @@ function scrollToContact() {
 function downloadCV() {
     // Create a temporary link element
     const link = document.createElement('a');
-    link.href = 'cv/kartikay-sharma-cv.pdf'; // You'll need to add your CV here
+    link.href = 'cv/Kartikay Sharma CV.pdf; // You'll need to add your CV here
     link.download = 'Kartikay_Sharma_CV.pdf';
     
     // Append to body, click, and remove
